@@ -1,2 +1,2 @@
 # Icons
-Icons/LOGOs
+Store for Icons/LOGOs that I need.
